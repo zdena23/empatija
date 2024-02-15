@@ -1,0 +1,42 @@
+body{font-family:'Quicksand'sans-serif;
+margin: 0;}
+
+
+ul{list-style: none;margin: 0;
+padding: 0;}
+
+Header{ 
+    padding: 15px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   position: absolute;
+   width: 100%;
+box-sizing: border-box;}
+   
+ header ul{margin: 10pxpx;
+        padding: 0;
+        display: flex;
+        justify-content: flex-end;
+        width: 150px;}
+
+     header li{margin-left: 20px;
+            text-align: right;}
+        
+
+
+#logo a{padding: 10px;
+font-family:'Oleo Script'sans-serif;
+color: rgb(195, 17, 91);
+font-size: 50px;
+text-decoration: none;
+text-transform: uppercase;font-family: 'Source Code Pro', monospace, sans-serif;
+text-shadow: 1px 1px 2px rgb(0 0 0);
+}
+
+
+
+
+
+
+
